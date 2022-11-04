@@ -1,0 +1,5 @@
+Enter the details: 
+ EID: 12344 
+ Total Marks:78 
+ Grade:A 
+ Stream:JAVA
